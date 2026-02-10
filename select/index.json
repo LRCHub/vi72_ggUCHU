@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "KEEP UP",
+  "base_artist": "Odetari",
+  "createdAt": "2026-02-10T18:11:37.722219Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Keep Up",
+      "artist": "RaeLynn",
+      "has_synced": true,
+      "path": "select/01_Keep_Up_RaeLynn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Keep Up",
+      "artist": "RaeLynn",
+      "has_synced": true,
+      "path": "select/02_Keep_Up_RaeLynn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Keep Up With Me",
+      "artist": "Late Night Alumni",
+      "has_synced": true,
+      "path": "select/03_Keep_Up_With_Me_Late_Night_Alumni.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Keep Up With The Good Times",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/04_Keep_Up_With_The_Good_Times_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Keep Up the Good Work",
+      "artist": "Julianna Barwick",
+      "has_synced": false,
+      "path": "select/05_Keep_Up_the_Good_Work_Julianna_Barwick.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Can't Keep Up",
+      "artist": "Tourist feat. Will Heard",
+      "has_synced": true,
+      "path": "select/06_I_Can't_Keep_Up_Tourist_feat._Will_Heard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Can't Keep Up (feat. Will Heard)",
+      "artist": "Tourist",
+      "has_synced": true,
+      "path": "select/07_I_Can't_Keep_Up_(feat._Will_Heard)_Tourist.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "keep up",
+      "artist": "bbno$ feat. Lentra & TrippyThaKid",
+      "has_synced": true,
+      "path": "select/08_keep_up_bbno$_feat._Lentra_&_TrippyThaKid.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "keep up",
+      "artist": "bbno$",
+      "has_synced": true,
+      "path": "select/09_keep_up_bbno$.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kids (Keep Up)",
+      "artist": "Childish Gambino",
+      "has_synced": true,
+      "path": "select/10_Kids_(Keep_Up)_Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You can keep up with me",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/11_You_can_keep_up_with_me_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You can keep up with me",
+      "artist": "Koda Kumi",
+      "has_synced": true,
+      "path": "select/12_You_can_keep_up_with_me_Koda_Kumi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Create Couldn't Keep Up",
+      "artist": "Tides of Man",
+      "has_synced": true,
+      "path": "select/13_Create_Couldn't_Keep_Up_Tides_of_Man.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Can't Keep Up",
+      "artist": "Tourist ft. Will Heard",
+      "has_synced": true,
+      "path": "select/14_I_Can't_Keep_Up_Tourist_ft._Will_Heard.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Keep Up",
+      "artist": "KSI feat. Jme",
+      "has_synced": true,
+      "path": "select/15_Keep_Up_KSI_feat._Jme.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Keep Up",
+      "artist": "KSI Ft. JME",
+      "has_synced": true,
+      "path": "select/16_Keep_Up_KSI_Ft._JME.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Keep Up (feat. JME)",
+      "artist": "KSI",
+      "has_synced": true,
+      "path": "select/17_Keep_Up_(feat._JME)_KSI.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Ran With Love But Couldn't Keep Up",
+      "artist": "Spectrals",
+      "has_synced": true,
+      "path": "select/18_I_Ran_With_Love_But_Couldn't_Keep_Up_Spectrals.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KEEP UP",
+      "artist": "Odetari",
+      "has_synced": false,
+      "path": "select/pl_01_KEEP_UP_Odetari.txt"
+    }
+  ]
+}
